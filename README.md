@@ -29,7 +29,7 @@ A user-friendly, AI-powered tool that helps marketers understand their customer 
 
 ## 📸 Example Workflow
 
-![Marketing Persona Pipeline](assets/images/flowchart.png)
+![Marketing Persona Pipeline](assets/pipeline.png)
 
 ---
 
